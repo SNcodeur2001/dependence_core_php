@@ -1,0 +1,17 @@
+{
+  "name": "mapathe/core",
+  "description": "Dépendance Core contenant le cœur de l'application PHP (routes, base, services, etc.)",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Mapathe\\Core\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mapathé Ndiaye",
+      "email": "mapathendiaye542@gmail.com"
+    }
+  ],
+  "require": {}
+}
